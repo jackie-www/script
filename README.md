@@ -2,4 +2,4 @@
 learn python
 
 
-some experise of use python's library
+some experise of use python's processing library
